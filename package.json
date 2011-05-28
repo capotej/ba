@@ -1,7 +1,7 @@
 { "name" : "ba"
 , "description" : "web client benchmark tool (the opposite of ab)"
 , "keywords" : [ "web client benchmark", "ab", "ba" ]
-, "version" : "0.0.3"
+, "version" : "0.0.4"
 , "config" : { "publishtest" : false }
 , "homepage" : "http://github.com/capotej/ba"
 , "author" : "Julio Capote <jcapote@gmail.com> (http://www.juliocapote.com)"
