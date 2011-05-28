@@ -1,0 +1,33 @@
+{ "name" : "ba"
+, "description" : "web client benchmark tool (the opposite of ab)"
+, "keywords" : [ "web client benchmark", "ab", "ba" ]
+, "version" : "0.0.1"
+, "preferGlobal" : true
+, "config" : { "publishtest" : false }
+, "homepage" : "http://github.com/capotej/ba"
+, "author" : "Julio Capote <jcapote@gmail.com> (http://www.juliocapote.com)"
+, "repository" :
+  { "type" : "git"
+  , "url" : "git://github.com/capotej/ba.git"
+  }
+, "bugs" :
+  { "mail" : "jcapote@gmail.com"
+  , "web" : "http://github.com/capotej/ba/issues"
+  }
+, "directories" : { "doc" : "./doc"
+                  , "man" : "./man1"
+                  , "bin" : "./bin"
+                  }
+, "main" : "ba"
+, "bin" : "./bin/ba.js"
+, "dependencies" : { }
+, "bundleDependencies" : []
+	, "devDependencies" : { }
+, "engines" : { "node" : "0.4 || 0.5", "npm" : "1" }
+, "scripts" : { }
+, "licenses" :
+  [ { "type" : "MIT"
+			, "url" : "http://github.com/isaacs/npm/raw/master/LICENSE"
+    }
+  ]
+}
