@@ -1,7 +1,7 @@
 { "name" : "ba"
 , "description" : "web client benchmark tool (the opposite of ab)"
 , "keywords" : [ "web client benchmark", "ab", "ba" ]
-, "version" : "0.0.1"
+, "version" : "0.0.2"
 , "preferGlobal" : true
 , "config" : { "publishtest" : false }
 , "homepage" : "http://github.com/capotej/ba"
